@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakingCodeGreatAgain.Before", "MakingCodeGreatAgain.Before\MakingCodeGreatAgain.Before.csproj", "{5FE07290-C949-4BED-8B71-D9008A58359C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C9FB6D2E-975F-4782-AFCC-2B86853A235C}"
+	ProjectSection(SolutionItems) = preProject
+		MakingCodeGreatAgain.sln.DotSettings = MakingCodeGreatAgain.sln.DotSettings
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakingCodeGreatAgain.After", "MakingCodeGreatAgain.After\MakingCodeGreatAgain.After.csproj", "{4953BB05-EDC2-4E82-9858-09F001CC5F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE07290-C949-4BED-8B71-D9008A58359C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE07290-C949-4BED-8B71-D9008A58359C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE07290-C949-4BED-8B71-D9008A58359C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE07290-C949-4BED-8B71-D9008A58359C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4953BB05-EDC2-4E82-9858-09F001CC5F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4953BB05-EDC2-4E82-9858-09F001CC5F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4953BB05-EDC2-4E82-9858-09F001CC5F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4953BB05-EDC2-4E82-9858-09F001CC5F39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017F5776-3296-4B4D-9386-423B4F2131FC}
+	EndGlobalSection
+EndGlobal
